@@ -1,2 +1,5 @@
 This is to check weather this will be saved into to_check branch or not
 This is to resolve the merge conflict
+You first need to resolve the merge conflicts and then perform commit
+in order to avoid merge conflicts every time make pull request for the remote server and then perform 
+your changes in the file you want this way you can avoid any merge conflicts
