@@ -1,0 +1,3 @@
+THis file has same name i.e, practice.txt 
+This is for learning rebase concept of github which is difficult
+I am have some understanding of the rebase concept
