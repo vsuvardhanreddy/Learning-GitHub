@@ -1,4 +1,4 @@
 This is just for practice purpose
 This is a modification on purpose
 This is to test push command
-This is to check concept
+This is to check rebase concept
